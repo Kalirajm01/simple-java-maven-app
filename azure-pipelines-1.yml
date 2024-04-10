@@ -1,0 +1,4 @@
+pool: maven-project
+
+steps:
+- script: hostname
